@@ -127,9 +127,9 @@ void __fastcall TfrmMain::bbtnShowClick(TObject *Sender)
 
 				// Clear TBitmap
 				bmp->Canvas->Brush->Color = clWhite;
-				bmp->Canvas->FillRect(Rect(0, 0, tripleWidth-1, size.Height-1));
+				bmp->Canvas->FillRect(Rect(0, 0, tripleWidth, size.Height));
 				bmp2->Canvas->Brush->Color = clWhite;
-				bmp2->Canvas->FillRect(Rect(0, 0, tripleWidth-1, size.Height-1));
+				bmp2->Canvas->FillRect(Rect(0, 0, tripleWidth, size.Height));
 
 				// Print each letter twice, with different positions, on a TBitmap
 				bmp->Canvas->Font->Color = clGreen;
