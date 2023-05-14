@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>2023/05/12 23:23:34.000.902,=E:\C++ Builder\Project1PCH1.h</Transaction>
     <Transaction>2023/05/12 23:23:34.000.956,=E:\C++ Builder\Unit1.cpp</Transaction>
-    <Transaction>2023/05/13 00:21:12.000.152,E:\C++ Builder\Project1PCH1.h=E:\C++ Builder\Font Test\FontTestPCH1.h</Transaction>
-    <Transaction>2023/05/13 00:21:12.000.162,E:\C++ Builder\Unit1.dfm=E:\C++ Builder\Font Test\Unit1.dfm</Transaction>
-    <Transaction>2023/05/13 00:21:12.000.162,E:\C++ Builder\Unit1.h=E:\C++ Builder\Font Test\Unit1.h</Transaction>
-    <Transaction>2023/05/13 00:21:12.000.172,E:\C++ Builder\Project1.cbproj=E:\C++ Builder\Font Test\FontTest.cbproj</Transaction>
-    <Transaction>2023/05/13 00:21:12.000.162,E:\C++ Builder\Unit1.cpp=E:\C++ Builder\Font Test\Unit1.cpp</Transaction>
-    <Transaction>2023/05/13 00:21:20.000.490,E:\C++ Builder\Font Test\Unit1.dfm=E:\C++ Builder\Font Test\FontTestMain.dfm</Transaction>
-    <Transaction>2023/05/13 00:21:20.000.490,E:\C++ Builder\Font Test\Unit1.cpp=E:\C++ Builder\Font Test\FontTestMain.cpp</Transaction>
-    <Transaction>2023/05/13 00:21:20.000.490,E:\C++ Builder\Font Test\Unit1.h=E:\C++ Builder\Font Test\FontTestMain.h</Transaction>
-    <Transaction>2023/05/13 21:34:41.000.967,E:\C++ Builder\Font Test\FontTest.cbproj=E:\C++ Builder\Font Test\ShowInstalledFonts.cbproj</Transaction>
-    <Transaction>2023/05/13 21:34:41.000.959,E:\C++ Builder\Font Test\FontTestPCH1.h=E:\C++ Builder\Font Test\ShowInstalledFontsPCH1.h</Transaction>
-    <Transaction>2023/05/13 21:35:12.000.530,E:\C++ Builder\Font Test\ShowInstalledFontsPCH1.h=E:\C++ Builder\Font Test\ShowLettersPCH1.h</Transaction>
-    <Transaction>2023/05/13 21:35:12.000.534,E:\C++ Builder\Font Test\ShowInstalledFonts.cbproj=E:\C++ Builder\Font Test\ShowLetters.cbproj</Transaction>
-    <Transaction>2023/05/13 21:35:52.000.324,E:\C++ Builder\Font Test\ShowLetters.cbproj=E:\C++ Builder\Font Test\ShowInstalledLetters.cbproj</Transaction>
-    <Transaction>2023/05/13 21:35:52.000.319,E:\C++ Builder\Font Test\ShowLettersPCH1.h=E:\C++ Builder\Font Test\ShowInstalledLettersPCH1.h</Transaction>
+    <Transaction>2023/05/12 23:23:34.000.902,=E:\C++ Builder\Project1PCH1.h</Transaction>
+    <Transaction>2023/05/13 00:21:12.000.162,E:\C++ Builder\Font Test\Unit1.dfm=E:\C++ Builder\Unit1.dfm</Transaction>
+    <Transaction>2023/05/13 00:21:12.000.152,E:\C++ Builder\Font Test\FontTestPCH1.h=E:\C++ Builder\Project1PCH1.h</Transaction>
+    <Transaction>2023/05/13 00:21:12.000.172,E:\C++ Builder\Font Test\FontTest.cbproj=E:\C++ Builder\Project1.cbproj</Transaction>
+    <Transaction>2023/05/13 00:21:12.000.162,E:\C++ Builder\Font Test\Unit1.cpp=E:\C++ Builder\Unit1.cpp</Transaction>
+    <Transaction>2023/05/13 00:21:12.000.162,E:\C++ Builder\Font Test\Unit1.h=E:\C++ Builder\Unit1.h</Transaction>
+    <Transaction>2023/05/13 00:21:20.000.490,E:\C++ Builder\Font Test\FontTestMain.h=E:\C++ Builder\Font Test\Unit1.h</Transaction>
+    <Transaction>2023/05/13 00:21:20.000.490,E:\C++ Builder\Font Test\FontTestMain.dfm=E:\C++ Builder\Font Test\Unit1.dfm</Transaction>
+    <Transaction>2023/05/13 00:21:20.000.490,E:\C++ Builder\Font Test\FontTestMain.cpp=E:\C++ Builder\Font Test\Unit1.cpp</Transaction>
+    <Transaction>2023/05/13 21:34:41.000.959,E:\C++ Builder\Font Test\ShowInstalledFontsPCH1.h=E:\C++ Builder\Font Test\FontTestPCH1.h</Transaction>
+    <Transaction>2023/05/13 21:34:41.000.967,E:\C++ Builder\Font Test\ShowInstalledFonts.cbproj=E:\C++ Builder\Font Test\FontTest.cbproj</Transaction>
+    <Transaction>2023/05/13 21:35:12.000.534,E:\C++ Builder\Font Test\ShowLetters.cbproj=E:\C++ Builder\Font Test\ShowInstalledFonts.cbproj</Transaction>
+    <Transaction>2023/05/13 21:35:12.000.530,E:\C++ Builder\Font Test\ShowLettersPCH1.h=E:\C++ Builder\Font Test\ShowInstalledFontsPCH1.h</Transaction>
+    <Transaction>2023/05/13 21:35:52.000.319,E:\C++ Builder\Font Test\ShowInstalledLettersPCH1.h=E:\C++ Builder\Font Test\ShowLettersPCH1.h</Transaction>
+    <Transaction>2023/05/13 21:35:52.000.324,E:\C++ Builder\Font Test\ShowInstalledLetters.cbproj=E:\C++ Builder\Font Test\ShowLetters.cbproj</Transaction>
     <Transaction>2023/05/13 22:49:33.000.650,=E:\C++ Builder\Show Installed Letters\Unit1.cpp</Transaction>
-    <Transaction>2023/05/13 22:51:02.000.093,E:\C++ Builder\Show Installed Letters\ShowInstalledLettersPCH1.h=E:\C++ Builder\Show Installed Letters\ShowLettersPCH1.h</Transaction>
-    <Transaction>2023/05/13 22:51:02.000.093,E:\C++ Builder\Show Installed Letters\ShowInstalledLetters.cbproj=E:\C++ Builder\Show Installed Letters\ShowLetters.cbproj</Transaction>
-    <Transaction>2023/05/13 22:51:14.000.968,E:\C++ Builder\Show Installed Letters\Unit1.cpp=E:\C++ Builder\Show Installed Letters\ShowLettersMain.cpp</Transaction>
-    <Transaction>2023/05/13 22:51:14.000.968,E:\C++ Builder\Show Installed Letters\Unit1.dfm=E:\C++ Builder\Show Installed Letters\ShowLettersMain.dfm</Transaction>
-    <Transaction>2023/05/13 22:51:14.000.968,E:\C++ Builder\Show Installed Letters\Unit1.h=E:\C++ Builder\Show Installed Letters\ShowLettersMain.h</Transaction>
+    <Transaction>2023/05/13 22:51:02.000.093,E:\C++ Builder\Show Installed Letters\ShowLetters.cbproj=E:\C++ Builder\Show Installed Letters\ShowInstalledLetters.cbproj</Transaction>
+    <Transaction>2023/05/13 22:51:02.000.093,E:\C++ Builder\Show Installed Letters\ShowLettersPCH1.h=E:\C++ Builder\Show Installed Letters\ShowInstalledLettersPCH1.h</Transaction>
+    <Transaction>2023/05/13 22:51:14.000.968,E:\C++ Builder\Show Installed Letters\ShowLettersMain.h=E:\C++ Builder\Show Installed Letters\Unit1.h</Transaction>
+    <Transaction>2023/05/13 22:51:14.000.968,E:\C++ Builder\Show Installed Letters\ShowLettersMain.dfm=E:\C++ Builder\Show Installed Letters\Unit1.dfm</Transaction>
+    <Transaction>2023/05/13 22:51:14.000.968,E:\C++ Builder\Show Installed Letters\ShowLettersMain.cpp=E:\C++ Builder\Show Installed Letters\Unit1.cpp</Transaction>
   </Transactions>
 </BorlandProject>
