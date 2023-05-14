@@ -6,7 +6,9 @@
 - 新版U8g2FontTools.exe將儘可能修正被裁切錯誤
 
 程式設計：林威辰(臺灣.高雄)
+
 完成日期：2023-05-14
+
 使用授權：MIT License
 
 ## 《MIT License》
