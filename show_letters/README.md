@@ -6,6 +6,8 @@
 
 程式設計：林威辰(臺灣.高雄)
 
+程式語言：Embarcadero C++ 11 Alexandria
+
 完成日期：2023-05-14
 
 使用授權：MIT License
