@@ -1,6 +1,6 @@
 # U8g2 Font Tools (U8g2FontTools.exe)
 可將Windows已安裝字型轉碼成u8g2格式的工具程式(Beta Test)
-- 新增功能：粗體字、斜體字、粗斜體字、底線字、刪除線字
+- 新增字形效果：粗體字、斜體字、粗斜體字、底線字、刪除線字
 - 已修正非方正字形被部分裁切錯誤
 
 ## Show Letters (ShowLetters.exe)
