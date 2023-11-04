@@ -2,6 +2,8 @@
 
 https://github.com/weichenlin306/u8g2_font_tools/assets/133075659/b6424573-4dfe-47c5-9d8e-39ec927de387
 
+![唐詩演示](https://github.com/weichenlin306/u8g2_font_tools/assets/133075659/d64c8755-c695-4f98-9646-18bfc1cd5fe8) ![經典電影對白演示](https://github.com/weichenlin306/u8g2_font_tools/assets/133075659/215f957d-3b3d-47f0-8511-de8e35eb95ae)
+
 可將Windows已安裝字型轉碼成u8g2格式的工具程式
 - 最新版號 v1.0.23.520 (程式碼正式釋出)
 - 程式編譯：Embarcadero C++ Builder 11 Alexandria Community Edition
