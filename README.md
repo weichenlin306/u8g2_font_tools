@@ -2,7 +2,7 @@
 
 https://github.com/weichenlin306/u8g2_font_tools/assets/133075659/b6424573-4dfe-47c5-9d8e-39ec927de387
 
-![E912480F-196C-4FB8-8218-E411FB11A45A](https://github.com/weichenlin306/u8g2_font_tools/assets/133075659/3b2b2b5c-a141-451f-9552-28b466bfe117)
+![E912480F-196C-4FB8-8218-E411FB11A45A](https://github.com/weichenlin306/u8g2_font_tools/assets/133075659/3b2b2b5c-a141-451f-9552-28b466bfe117 = 100x100)
 ![F8A9844A-3A59-4108-9D75-B1F2E2E2E68B](https://github.com/weichenlin306/u8g2_font_tools/assets/133075659/bff5ee90-7731-412e-9903-3922d736cda6)
 
 可將Windows已安裝字型轉碼成u8g2格式的工具程式
