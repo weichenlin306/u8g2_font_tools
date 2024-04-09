@@ -11,8 +11,8 @@ https://github.com/weichenlin306/u8g2_font_tools/assets/133075659/b6424573-4dfe-
 
 - Release of English version 1.1.24.409
   English translation of menus and comments
-  -- The English translation may not be appropriate since it is not my mother tongue!
-     Any feedback is appreciated.
+    - The English translation may not be appropriate since it is not my mother tongue!
+    - Any feedback is appreciated.
 
 ## Show Letters (ShowLetters.exe)
 U8g2 Font Tools之工具程式，可檢視字形在預設字形邊框內顯示時，超出框格部分被裁切狀況
