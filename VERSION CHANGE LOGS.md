@@ -20,3 +20,6 @@ v1.0.23.512
 
 v1.0.23.510
 - 初版釋出。
+
+v1.1.24.409
+- Release of English version
